@@ -16,7 +16,7 @@ pip install pandas scikit-learn matplotlib
 2. Run the simulator script:
 
 ```bash
-python smart_thermostat_simulator.py
+python model.py
 ```
 
 This will start the simulation, printing the predicted temperatures and adjustments made at each step.
