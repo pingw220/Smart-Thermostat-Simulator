@@ -43,6 +43,10 @@ This is a simulation intended for educational purposes and may require adjustmen
 
 This Arduino-based project controls a heating system by predicting the next temperature using a linear model and adjusting heating accordingly. It uses two LEDs to indicate whether to increase or decrease the heating.
 
+## Demo
+
+The link provided is the Wokwi simulation.([link](https://wokwi.com/projects/397066219278095361))
+
 ## Installation
 
 You need the Arduino IDE installed and configured for your Arduino board. No additional libraries are required for the basic functionality.
